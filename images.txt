@@ -1,4 +1,5 @@
 alpine
 #支持私库
 ollama/ollama:0.4.5-rocm
-ollama/ollama:latest
+linuxserver/wireguard:legacy-version-v1.0.20210914
+
