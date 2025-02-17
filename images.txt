@@ -3,4 +3,4 @@ alpine
 ollama/ollama:0.4.5-rocm
 linuxserver/wireguard:legacy-version-v1.0.20210914
 ghcr.io/open-webui/open-webui:main
-
+rustdesk/rustdesk-server-s6:latest
